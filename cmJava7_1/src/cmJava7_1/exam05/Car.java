@@ -1,4 +1,4 @@
-package cmJava7_1;
+package cmJava7_1.exam05;
 
 public class Car {
 	
